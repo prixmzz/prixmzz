@@ -1,7 +1,7 @@
 <div align="right">
 
 # About Me:
-hey im your average developer from the uk, i work on projects ranging from html, js & css all the way to lua(u)  
+hey im your average developer from the uk, i work on projects ranging from backend, frontend to various databases & frameworks
 ive also worked in many large projects :)
 
 </div>
